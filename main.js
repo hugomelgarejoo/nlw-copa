@@ -34,4 +34,3 @@ document.querySelector("#cards").innerHTML =
 
     createCard('24/11', 'quinta',
     createGame('brazil', '16:00', 'serbia'))
-
